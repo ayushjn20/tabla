@@ -1,0 +1,17 @@
+.idea
+.vscode
+*.png
+*swp
+*.cbp
+*Makefile
+*CMakeCache.txt
+*cmake_install.cmake
+*CMakeFiles/
+*build/
+*cmake-build-debug
+*.a
+*.csv
+*.jpg
+rm.sh
+
+table-reader
