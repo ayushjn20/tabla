@@ -1,6 +1,9 @@
 # TABLE EXTRACT
 ## About
 A C++ package to extact tabular data from a scanned image using simple image processing techniques.
+
+[Project Report](https://github.com/ayushjn20/tabla/blob/master/project-report.pdf)
+
 ## Installation and Setup
 ### Using CMake
 Minimum CMake verison required: `3.10`
